@@ -17,16 +17,24 @@ namespace MyFirstProgram
         {
             Console.WriteLine("Enter Farenheit Temperature:");
             string temperatureFarenheitString = Console.ReadLine();
-            float temperatureFarenheit = float.Parse(temperatureFarenheitString, CultureInfo.InvariantCulture.NumberFormat);
+            decimal temperatureFarenheit = decimal.Parse(temperatureFarenheitString, CultureInfo.InvariantCulture.NumberFormat);
             Console.WriteLine(Temperature.FarenheitToCelsius(temperatureFarenheit));
 
         }
-        static float FarenheitToCelsius(float temperatureFarenheit)
+        static decimal FarenheitToCelsius(decimal temperatureFarenheit)
         {
-            float temperatureCelsius = (temperatureFarenheit - 32) / 1.8f;
-            // int result = (int)temperatureCelsius;
+            decimal temperatureCelsius = (temperatureFarenheit - 32M) / 1.8M;
+            int result = (int)temperatureCelsius;
             // return result;
-            return temperatureCelsius;
+            Console.WriteLine(temperatureCelsius);
+            if (temperatureCelsius - result >= 0.5M)
+            {
+                return Math.Ceiling(temperatureCelsius);
+            }
+            else
+            {
+                return Math.Floor(temperatureCelsius);
+            }
         }
     }
 }
