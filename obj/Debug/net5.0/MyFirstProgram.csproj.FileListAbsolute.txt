@@ -1,0 +1,15 @@
+/Users/michaelrobards/Projects/Pluralsight/MyFirstProgram/bin/Debug/net5.0/MyFirstProgram.deps.json
+/Users/michaelrobards/Projects/Pluralsight/MyFirstProgram/bin/Debug/net5.0/MyFirstProgram.runtimeconfig.json
+/Users/michaelrobards/Projects/Pluralsight/MyFirstProgram/bin/Debug/net5.0/MyFirstProgram.runtimeconfig.dev.json
+/Users/michaelrobards/Projects/Pluralsight/MyFirstProgram/bin/Debug/net5.0/MyFirstProgram.dll
+/Users/michaelrobards/Projects/Pluralsight/MyFirstProgram/bin/Debug/net5.0/ref/MyFirstProgram.dll
+/Users/michaelrobards/Projects/Pluralsight/MyFirstProgram/bin/Debug/net5.0/MyFirstProgram.pdb
+/Users/michaelrobards/Projects/Pluralsight/MyFirstProgram/obj/Debug/net5.0/MyFirstProgram.csproj.AssemblyReference.cache
+/Users/michaelrobards/Projects/Pluralsight/MyFirstProgram/obj/Debug/net5.0/MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelrobards/Projects/Pluralsight/MyFirstProgram/obj/Debug/net5.0/MyFirstProgram.AssemblyInfoInputs.cache
+/Users/michaelrobards/Projects/Pluralsight/MyFirstProgram/obj/Debug/net5.0/MyFirstProgram.AssemblyInfo.cs
+/Users/michaelrobards/Projects/Pluralsight/MyFirstProgram/obj/Debug/net5.0/MyFirstProgram.csproj.CoreCompileInputs.cache
+/Users/michaelrobards/Projects/Pluralsight/MyFirstProgram/obj/Debug/net5.0/MyFirstProgram.dll
+/Users/michaelrobards/Projects/Pluralsight/MyFirstProgram/obj/Debug/net5.0/ref/MyFirstProgram.dll
+/Users/michaelrobards/Projects/Pluralsight/MyFirstProgram/obj/Debug/net5.0/MyFirstProgram.pdb
+/Users/michaelrobards/Projects/Pluralsight/MyFirstProgram/obj/Debug/net5.0/MyFirstProgram.genruntimeconfig.cache
