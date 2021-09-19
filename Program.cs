@@ -24,6 +24,8 @@ namespace MyFirstProgram
         static float FarenheitToCelsius(float temperatureFarenheit)
         {
             float temperatureCelsius = (temperatureFarenheit - 32) / 1.8f;
+            // int result = (int)temperatureCelsius;
+            // return result;
             return temperatureCelsius;
         }
     }
